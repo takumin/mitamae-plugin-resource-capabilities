@@ -1,5 +1,7 @@
 # mitamae-plugin-resource-capabilities
 
+Project Status: Work In Progress
+
 ```ruby
 capabilities 'cap_ipc_lock' do
   path '/usr/local/bin/vault'
